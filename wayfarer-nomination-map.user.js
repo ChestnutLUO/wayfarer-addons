@@ -6,6 +6,7 @@
 // @downloadURL  https://github.com/tehstone/wayfarer-addons/raw/main/wayfarer-nomination-map.user.js
 // @homepageURL  https://github.com/tehstone/wayfarer-addons/
 // @match        https://wayfarer.nianticlabs.com/*
+// @match        https://opr.ingress.com/*
 // ==/UserScript==
 
 // Copyright 2024 tehstone, bilde, Tntnnbltn

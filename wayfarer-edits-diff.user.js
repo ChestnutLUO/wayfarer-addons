@@ -7,6 +7,7 @@
 // @homepageURL  https://github.com/tehstone/wayfarer-addons
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jsdiff/5.0.0/diff.min.js
 // @match        https://wayfarer.nianticlabs.com/*
+// @match        https://opr.ingress.com/*
 // ==/UserScript==
 
 // Copyright 2024 bilde, tehstone

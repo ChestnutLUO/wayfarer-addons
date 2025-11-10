@@ -6,6 +6,7 @@
 // @downloadURL  https://github.com/tehstone/wayfarer-addons/raw/main/wayfarer-ticket-saver.user.js
 // @homepageURL  https://github.com/tehstone/wayfarer-addons
 // @match        https://wayfarer.nianticlabs.com/*
+// @match        https://opr.ingress.com/*
 // @match        https://webchat.helpshift.com/*
 // @grant        GM_setValue
 // @grant        GM_getValue
